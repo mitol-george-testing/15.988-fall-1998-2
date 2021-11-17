@@ -1,0 +1,44 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Computational Modeling and Simulation"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Systems Optimization"
+    ],
+    [
+      "Business",
+      "Operations Management"
+    ],
+    [
+      "Business",
+      "Management"
+    ],
+    [
+      "Business",
+      "Organizational Behavior"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "efc6ce5b-ae01-f8d9-f6b1-05309db26237"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "System Dynamics Self Study",
+  "course_description": "Many books and thousands of papers cover the field of system dynamics. With all of these resources available, it can be difficult to know where to begin. The System Dynamics in Education Project at MIT put together these resources to help people sort through the vast library of books and papers on system dynamics. This course site includes a collection of papers and computer exercises entitled \u201cRoad Maps,\u201d as well as a collection of assignments and solutions that were initially part of a guided study to system dynamics.\u00a0 Note that while the level of the course indicated in the upper right corner of the screen is \"Undergraduate / Graduate,\" the material is suitable for people ranging from K-12 students to chief executives of corporations.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.988",
+  "learning_resource_types": [
+    "Problem Sets with Solutions"
+  ],
+  "title": "Course Metadata"
+}
